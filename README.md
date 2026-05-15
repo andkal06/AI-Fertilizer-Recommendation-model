@@ -78,5 +78,4 @@ This project aims to support smarter agricultural decision-making by helping use
 
 ---
 ## Author
-Kalya Andriana
-Fauzan Febriansyah
+Kalya Andriana, Fauzan Febriansyah
